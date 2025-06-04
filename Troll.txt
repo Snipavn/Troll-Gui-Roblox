@@ -166,7 +166,9 @@ local buttons = {
     {name = "🎉 Get Banged", r6 = "https://github.com/Snipavn/Troll-Gui-Roblox/raw/refs/heads/main/script/getbanged-r6.txt", r15 = "https://github.com/Snipavn/Troll-Gui-Roblox/raw/refs/heads/main/script/getbanged-r15.txt"},
     {name = "💥 Suck", r6 = "https://github.com/Snipavn/Troll-Gui-Roblox/raw/refs/heads/main/script/suck-r6.txt", r15 = "https://github.com/Snipavn/Troll-Gui-Roblox/raw/refs/heads/main/script/suck-r15.txt"},
     {name = "🔥 Get Suc", r6 = "https://github.com/Snipavn/Troll-Gui-Roblox/raw/refs/heads/main/script/getsuc-r6.txt", r15 = "https://github.com/Snipavn/Troll-Gui-Roblox/raw/refs/heads/main/script/getsuc-r15.txt"},
-    {name = "⚡ Jerk", r6 = "https://pastefy.app/wa3v2Vgm/raw", r15 = "https://pastefy.app/YZoglOyJ/raw"}
+    {name = "⚡ Jerk", r6 = "https://pastefy.app/wa3v2Vgm/raw", r15 = "https://pastefy.app/YZoglOyJ/raw"},
+    {name = "🦉 Dick", r6 =
+"https://raw.githubusercontent.com/inkdupe/hat-scripts/refs/heads/main/script.lua"}
 }
 
 for _, buttonData in ipairs(buttons) do
